@@ -59,7 +59,7 @@ Create table  trans with the property given below
 
 ## Usage
 
-> We can ablr to add the values in both the entitles,count the number of transactions,deleting the account and transferring the amount from one acoount to another account by giving specific details of the users.
+> We can able to add the values in both the entitles,count the number of transactions,deleting the account and transferring the amount from one acoount to another account by giving specific details of the users.
 
 
 
